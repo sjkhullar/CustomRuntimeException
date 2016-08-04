@@ -1,0 +1,1 @@
+User defined custom Runtime or Unchecked exception in java
